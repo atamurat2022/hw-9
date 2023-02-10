@@ -30,6 +30,7 @@ const TodoItem = ({ state, dispatch, todo, id }) => {
             <span
               style={{
                 textDecoration: todo.completed ? "line-through" : "",
+                color: "#000",
               }}
             >
               <span>{id + 1}.</span>

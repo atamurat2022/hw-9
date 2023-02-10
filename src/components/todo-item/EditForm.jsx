@@ -30,7 +30,7 @@ const Input = styled.input`
   margin: 8px 0;
   box-sizing: border-box;
   background-color: #fff;
-  color: white;
+  color: #000;
   text-align: center;
 `;
 
